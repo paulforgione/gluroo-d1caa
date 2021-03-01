@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: The Diabetes Life Lifter
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Group Messaging designed to keep your whole family up to date with
+      diabetes
     actions:
       - label: Learn More
         url: /features
