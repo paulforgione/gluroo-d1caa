@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The Diabetes Life Lifter
-    subtitle: >-
-      Group Messaging designed to keep your whole family up to date with
-      diabetes
+    subtitle: Worry less about diabetes.
     actions:
       - label: Learn More
         url: /features
