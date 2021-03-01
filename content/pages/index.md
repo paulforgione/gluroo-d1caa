@@ -23,7 +23,7 @@ sections:
       background_image: images/paul-earle-xJ2tjuUHD9M-unsplash.jpg
       background_image_opacity: 100
       background_image_size: auto
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
   - type: features_section
     title: Features
     features:
