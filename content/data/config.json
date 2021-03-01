@@ -28,7 +28,7 @@
             {
                 "label": "Join The Beta",
                 "url": "/contact",
-                "style": "primary"
+                "style": "secondary"
             }
         ]
     },
