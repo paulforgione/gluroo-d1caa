@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Gluroo
-    subtitle: Worry less about diabetes.
+    subtitle: Know that everyone is up to date. Worry less about diabetes.
     actions:
       - label: Learn More
         url: /features
