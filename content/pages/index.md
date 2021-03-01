@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Diabetes Life Lifter
+    title: Gluroo –The Diabetes Life Lifter
     subtitle: Worry less about diabetes.
     actions:
       - label: Learn More
